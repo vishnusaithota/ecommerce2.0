@@ -22,3 +22,8 @@ spring:
           predicates :
             - Path=/eureka/web
           filters : SetPath=/
+        - id: DISCOVERY-SERVER-STATIC
+          uri: http://localhost:8761
+          predicates:
+            - Path=/eureka/**
+
