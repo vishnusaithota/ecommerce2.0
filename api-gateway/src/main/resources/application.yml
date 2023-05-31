@@ -18,6 +18,7 @@ spring:
           predicates :
             - Path=/api/order
         - id : DISCOVERY-SERVER
-          uri : lb://localhost:8761
+          uri : http://localhost:8761
           predicates :
             - Path=/eureka/web
+          filters : SetPath=/
