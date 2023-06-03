@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.webservices.inventoryservice.InventoryServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.341 s - in com.webservices.inventoryservice.InventoryServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.775 s - in com.webservices.inventoryservice.InventoryServiceApplicationTests

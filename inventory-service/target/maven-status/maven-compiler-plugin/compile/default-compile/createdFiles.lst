@@ -1,6 +1,7 @@
 com\webservices\inventoryservice\InventoryServiceApplication.class
 com\webservices\inventoryservice\service\InventoryService.class
 com\webservices\inventoryservice\repository\InventoryRepository.class
+com\webservices\inventoryservice\config\SecurityConfig.class
 com\webservices\inventoryservice\model\Inventory$InventoryBuilder.class
 com\webservices\inventoryservice\model\Inventory.class
 com\webservices\inventoryservice\dto\InventoryResponse.class

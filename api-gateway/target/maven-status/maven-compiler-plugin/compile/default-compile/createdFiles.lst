@@ -1,1 +1,2 @@
 com\webservices\apigateway\ApiGatewayApplication.class
+com\webservices\apigateway\config\SecurityConfig.class

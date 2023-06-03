@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.webservices.productservice.ProductServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.584 s - in com.webservices.productservice.ProductServiceApplicationTests
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.909 s - in com.webservices.productservice.ProductServiceApplicationTests
