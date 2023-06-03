@@ -3,4 +3,6 @@ com\webservices\inventoryservice\service\InventoryService.class
 com\webservices\inventoryservice\repository\InventoryRepository.class
 com\webservices\inventoryservice\model\Inventory$InventoryBuilder.class
 com\webservices\inventoryservice\model\Inventory.class
+com\webservices\inventoryservice\dto\InventoryResponse.class
 com\webservices\inventoryservice\controller\InventoryController.class
+com\webservices\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class

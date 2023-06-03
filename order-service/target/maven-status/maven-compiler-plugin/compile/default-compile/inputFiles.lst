@@ -1,5 +1,7 @@
 C:\Users\VT\Desktop\ecommerce2.0\inventory-service\microservices-new\order-service\src\main\java\com\webservices\orderservice\model\OrderLineItems.java
 C:\Users\VT\Desktop\ecommerce2.0\inventory-service\microservices-new\order-service\src\main\java\com\webservices\orderservice\service\OrderService.java
+C:\Users\VT\Desktop\ecommerce2.0\inventory-service\microservices-new\order-service\src\main\java\com\webservices\orderservice\config\WebClientConfig.java
+C:\Users\VT\Desktop\ecommerce2.0\inventory-service\microservices-new\order-service\src\main\java\com\webservices\orderservice\dto\InventoryResponse.java
 C:\Users\VT\Desktop\ecommerce2.0\inventory-service\microservices-new\order-service\src\main\java\com\webservices\orderservice\dto\OrderRequest.java
 C:\Users\VT\Desktop\ecommerce2.0\inventory-service\microservices-new\order-service\src\main\java\com\webservices\orderservice\model\Order.java
 C:\Users\VT\Desktop\ecommerce2.0\inventory-service\microservices-new\order-service\src\main\java\com\webservices\orderservice\dto\OrderLineItemsDto.java
