@@ -26,7 +26,7 @@ public class OrderService {
 
     private final WebClient.Builder webClientBuilder;
 
-    public void placeOrder(OrderRequest orderRequest){
+    public String placeOrder(OrderRequest orderRequest){
         Order order = new Order();
 
         order.setOrderNumber(UUID.randomUUID().toString());
@@ -51,6 +51,7 @@ public class OrderService {
         }else {
             throw new IllegalArgumentException("Product is not in stock, Please try again later");
         }
+        return "Order Placed Successfully";
     }
 
     private OrderLineItems mapToDto(OrderLineItemsDto orderLineItemsDto) {
