@@ -26,6 +26,7 @@ public class OrderService {
 
     private final WebClient.Builder webClientBuilder;
 
+
     public String placeOrder(OrderRequest orderRequest){
         Order order = new Order();
 
@@ -37,6 +38,8 @@ public class OrderService {
         List<String> skuCodes = order.getOrderLineItemsList()
                 .stream().map(OrderLineItems::getSkuCode)
                 .toList();
+
+
 
         InventoryResponse[] inventoryResponseArray =  webClientBuilder.build().get()
                 .uri("http://INVENTORY-SERVICE/api/inventory",
